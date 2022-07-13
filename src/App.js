@@ -6,19 +6,19 @@ const contacts = [
     "id": "karen",
     "name": "Karen Isgrigg",
     "handle": "karen_isgrigg",
-    "avatarURL": "http://localhost:5001/karen.jpg"
+    "avatarURL": "https://thumbs.dreamstime.com/b/happy-person-portrait-smiling-woman-tanned-skin-curly-hair-happy-person-portrait-smiling-young-friendly-woman-197501184.jpg"
   },
   {
     "id": "richard",
     "name": "Richard Kalehoff",
     "handle": "richardkalehoff",
-    "avatarURL": "http://localhost:5001/richard.jpg"
+    "avatarURL": "https://image.shutterstock.com/image-photo/handsome-unshaven-young-darkskinned-male-260nw-640011838.jpg"
   },
   {
     "id": "tyler",
     "name": "Tyler McGinnis",
     "handle": "tylermcginnis",
-    "avatarURL": "http://localhost:5001/tyler.jpg"
+    "avatarURL": "https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
   }
  ]
 

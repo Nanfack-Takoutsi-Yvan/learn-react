@@ -3906,7 +3906,7 @@
     "mime-types" "^2.1.12"
 
 "form-serialize@^0.7.2":
-  "integrity" "sha1-sKL/DCICb7bT0VydM/beakMuRzI="
+  "integrity" "sha512-ohEA4Crzd/+hSREjGf4kSsy73WhAtQ7H+blGEz2DVd+JCi0TV5nZBSn9PaPlvrl9m29fa6xclAfpRkqZ57b1bw=="
   "resolved" "https://registry.npmjs.org/form-serialize/-/form-serialize-0.7.2.tgz"
   "version" "0.7.2"
 
